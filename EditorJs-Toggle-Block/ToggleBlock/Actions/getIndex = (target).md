@@ -1,0 +1,1 @@
+getIndex = (target) => Array.from(target.parentNode.children).indexOf(target);
